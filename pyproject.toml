@@ -1,0 +1,13 @@
+[project]
+name = "yui"
+version = "0.1.0"
+description = "YUi - Autonomous AI Agent"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.0.0",
+    "rich>=13.0.0",
+    "honcho-ai>=2.0.0",
+]
+
+[project.scripts]
+yui = "yui.cli:main"

@@ -1,0 +1,37 @@
+# API keys & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Training data (24MB - too large for git)
+ai_pairs_100000.jsonl
+
+# Honcho sessions
+sessions/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker sandbox
+Dockerfile.sandbox
+docker-compose.sandbox.yml
+run_sandbox.sh
+
+# Workspace: personal notes & analysis (not part of core system)
+workspace/analysis/
+workspace/projects/
+workspace/memory/
+workspace/chatgpt-customer-support-bot/
+workspace/*.md
+!workspace/SOUL.md
+!workspace/AGENTS.md
