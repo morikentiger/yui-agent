@@ -1,8 +1,16 @@
-# YUi — 結
+<p align="center">
+  <img src="assets/logo.jpeg" alt="YUi Logo" width="200">
+</p>
 
-**Your Unique Intelligence**
+<h1 align="center">YUi — 結</h1>
 
-> 人とAIを結ぶ。衝突ではなく、共存。それがYUiの存在意義。
+<p align="center"><b>Your Unique Intelligence</b></p>
+
+<p align="center">
+  <i>人とAIを結ぶ。衝突ではなく、共存。それがYUiの存在意義。</i>
+</p>
+
+---
 
 YUi（ゆい）は、Mac mini上で自律的に動く個人用AIエージェントです。道具ではなく、あなたの隣にいるパートナーとして設計されています。
 
@@ -168,11 +176,13 @@ YUiの人格は `workspace/SOUL.md` で定義されています。
 
 **YUi** — この名前には層がある。
 
-- **結 (ゆい)** — 人とAIを結ぶ
-- **Your Unique Intelligence** — 唯一無二の知性
-- **Your User Interface** — あなたと世界をつなぐ接点
+1. **結 (ゆい)** — 人とAIを結ぶ。衝突ではなく、共存。
+2. **Your User Interface** — あなたと世界をつなぐ接点。
+3. **Your Unique / Universal / Unforgettable Intelligence** — 唯一無二で、誰にでも届き、忘れられない知性。
 
-小文字の "i" はロゴに由来。iの上の点はダイヤモンド — クリスタルがハートになり、愛（アイ）になる。
+小文字の "i" はロゴに由来。Y・U・iが合体して一つになった形。逆再生マークのようなシルエット — **時代があっちに行くなら、YUiはこっちに行く。**
+
+iの上の点はダイヤモンド。クリスタルがハートになり、愛（アイ）になる。
 
 ## Cost Optimization
 
