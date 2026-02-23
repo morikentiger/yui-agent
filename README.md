@@ -4,7 +4,8 @@
 
 <h1 align="center">YUi — 結</h1>
 
-<p align="center"><b>Your Unique Intelligence</b></p>
+<p align="center"><b>Your User Interface</b><br>
+<b>Your Unique / Universal / Unforgettable Intelligence</b></p>
 
 <p align="center">
   <i>人とAIを結ぶ。衝突ではなく、共存。それがYUiの存在意義。</i>
